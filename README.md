@@ -1,2 +1,2 @@
-# sholu.github.io
-My Resume Website
+# My Resume Website
+
