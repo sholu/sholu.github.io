@@ -30,8 +30,16 @@ This website is deployed using GitHub Pages from the `master` branch. The live s
 
 ```
 ├── css/                 # CSS stylesheets
+│   ├── bootstrap.min.css   # Bootstrap framework
+│   ├── font-awesome.min.css # Icon library
+│   └── style.css          # Main styles
 ├── js/                  # JavaScript files
+│   ├── jquery-3.7.1.slim.min.js # jQuery (secure version)
+│   ├── bootstrap.min.js    # Bootstrap JavaScript
+│   └── scripts.js          # Custom scripts
 ├── img/                 # Image assets
+│   ├── IMG_7644.jpg        # Profile image
+│   └── portfolio-*.jpg     # Portfolio project images
 ├── fonts/               # Font Awesome font files
 ├── index.html           # Main HTML file
 ├── robots.txt           # Search engine crawling instructions

@@ -1,6 +1,6 @@
-// No need for full jQuery wrapper for a simple preloader
+// Simple preloader script
 document.addEventListener('DOMContentLoaded', function() {
-    // Simple preloader with vanilla JavaScript
+    // Hide preloader when page is loaded
     setTimeout(function() {
         var preloader = document.getElementById('preloader');
         if (preloader) {
