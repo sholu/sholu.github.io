@@ -41,6 +41,11 @@ This website is deployed using GitHub Pages from the `master` branch. The live s
 │   ├── IMG_7644.jpg        # Profile image
 │   └── portfolio-*.jpg     # Portfolio project images
 ├── fonts/               # Font Awesome font files
+│   ├── fontawesome-webfont.eot   # IE9 Compat Mode
+│   ├── fontawesome-webfont.svg   # Legacy iOS
+│   ├── fontawesome-webfont.ttf   # Safari, Android, iOS
+│   ├── fontawesome-webfont.woff  # Modern Browsers
+│   └── fontawesome-webfont.woff2 # Best compression & performance
 ├── index.html           # Main HTML file
 ├── robots.txt           # Search engine crawling instructions
 ├── sitemap.xml          # Site structure for search engines
